@@ -1,0 +1,131 @@
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\All-in-One CSM Software with Point of Sales - Latest.exe
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\All-in-One CSM Software with Point of Sales - Latest.pdb
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csprojAssemblyReference.cache
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.Form1.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.Properties.Resources.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csproj.GenerateResource.cache
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csproj.CoreCompileInputs.cache
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.exe
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.pdb
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.RegistrationPage.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\All-in-One CSM Software with Point of Sales - Latest.exe.config
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Google.Protobuf.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\MySql.Data.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Buffers.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.IO.Pipelines.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Memory.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\ZstdSharp.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Google.Protobuf.pdb
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Google.Protobuf.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\MySql.Data.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Buffers.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.IO.Pipelines.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Memory.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csproj.CopyComplete
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.AdministratorPage.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.Technician.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.salespage.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.DashboardControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.UserManagementControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.InventoryControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.RepairControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.CustomerManagementControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.SalesManagementControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\itextsharp.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\itextsharp.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.RepairsReportControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.InventoryReportControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.BookRepairs.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.SellItemControl.resources
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\All-in-One CSM Software with Point of Sales - Latest.exe.manifest
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\All-in-One CSM Software with Point of Sales - Latest.application
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.exe.manifest
+C:\Users\oluka\source\repos\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.application
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Crypto.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Cryptography.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Google.Protobuf.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\itextsharp.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Hash.xxHash.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\MySql.Data.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Newtonsoft.Json.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Buffers.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.IO.Pipelines.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Memory.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Numerics.Vectors.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\ZstdSharp.dll
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Crypto.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\BouncyCastle.Cryptography.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Google.Protobuf.pdb
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Google.Protobuf.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\itextsharp.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\K4os.Hash.xxHash.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\MySql.Data.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\Newtonsoft.Json.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Buffers.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.IO.Pipelines.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Memory.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Numerics.Vectors.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csprojAssemblyReference.cache
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.AdministratorPage.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.BookRepairs.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.CustomerManagementControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.DashboardControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.Form1.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.InventoryControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.InventoryReportControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.Properties.Resources.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.RegistrationPage.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.RepairControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.RepairsReportControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.SalesManagementControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.salespage.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.SellItemControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.Technician.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All_in_One_CSM_Software_with_Point_of_Sales___Latest.UserManagementControl.resources
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csproj.GenerateResource.cache
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csproj.CoreCompileInputs.cache
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\All-in-One CSM Software with Point of Sales - Latest.csproj.CopyComplete
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\CSM.exe.config
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\CSM.exe.manifest
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\CSM.application
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\CSM.exe
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\bin\Debug\CSM.pdb
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\CSM.exe.manifest
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\CSM.application
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\CSM.exe
+C:\IsraelDocuments\All\PROJECT\2025\1\Design of a Computerised Digital Computer Repairs Workshop\Software\All-in-One CSM Software with Point of Sales - Latest\obj\Debug\CSM.pdb
